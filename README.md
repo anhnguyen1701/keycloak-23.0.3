@@ -1,2 +1,2 @@
-- front-end: https://github.com/anhnguyen1701/MISA_WEB8_2/tree/main/vue/cukcuk
+- front-end: https://github.com/anhnguyen1701/cukcuk
 - captcha.jar build from https://github.com/dasniko/keycloak-extensions-demo/tree/main/captcha
